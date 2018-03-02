@@ -1,0 +1,15 @@
+{
+  "name": "bergandino-todo",
+  "version": "1.0.0",
+  "description": "John Bergandino's Todo Application.",
+  "main": "server.js",
+  "author": "John Bergandino",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.10.8",
+    "method-override": "^2.3.10",
+    "mongoose": "4.10.8",
+    "morgan": "^1.9.0",
+    "path": "^0.12.7"
+  }
+}
